@@ -1,0 +1,16 @@
+{
+  "key": "spellbook",
+  "sourceId": "I3",
+  "title": "奥术书册 · 把任务做成收藏物",
+  "author": "Kayla Hill",
+  "license": "CC-BY-4.0",
+  "source": "https://sketchfab.com/3d-models/arcane-spellbook-d3be15f30054493ab2bf5490426467b2",
+  "distribution": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/glbs/000-033/d3be15f30054493ab2bf5490426467b2.glb",
+  "sha256": "94b523c6552d220828c09430d8d3d22d9c45118735314933acf0222a056637a5",
+  "bytes": 2988368,
+  "meshCount": 1,
+  "materialCount": 1,
+  "morphTargetCount": 0,
+  "extensionsUsed": [],
+  "animations": []
+}

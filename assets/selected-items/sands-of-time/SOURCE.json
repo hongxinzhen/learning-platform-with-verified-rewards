@@ -1,0 +1,14 @@
+{
+  "id": "N-I1",
+  "key": "sands-of-time",
+  "uid": "0a227353cd804df2b5414107d9e36d18",
+  "title": "流沙沙漏 · Sands of Time",
+  "source": "https://sketchfab.com/3d-models/sands-of-time-0a227353cd804df2b5414107d9e36d18",
+  "license": "CC-BY-4.0",
+  "author": "Antonio Gloria",
+  "download": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/glbs/000-139/0a227353cd804df2b5414107d9e36d18.glb",
+  "bytes": 5129764,
+  "sha256": "7244b8a1c819e075c7c93cb73b9d393a2284a698bb374ab8c98fe13db9e22aa2",
+  "local": "assets/selected-items/sands-of-time/model.glb",
+  "status": "downloaded"
+}

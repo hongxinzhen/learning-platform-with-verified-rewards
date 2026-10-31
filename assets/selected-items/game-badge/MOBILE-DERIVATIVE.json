@@ -1,0 +1,13 @@
+{
+  "source": "model.glb",
+  "derived": "model-mobile.glb",
+  "originalBytes": 32805744,
+  "derivedBytes": 11712756,
+  "originalSha256": "fd6d4a719e8dcfa413e6955fc670452bfcfb7912ae258c95ed8ff64f05bb6654",
+  "derivedSha256": "a5779e73b860e7d619f8c1c694cfb64836cb6b7df365e44761f5d02d13a013b0",
+  "modification": "Embedded textures above 512 pixels resized to max512 and PNG re-encoded. Geometry, UVs, material assignments, node hierarchy and animation unchanged.",
+  "imagesResized": 34,
+  "geometryBufferViewsPreserved": true,
+  "license": "CC-BY-4.0",
+  "author": "blacksheeptal"
+}

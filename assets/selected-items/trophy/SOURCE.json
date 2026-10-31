@@ -1,0 +1,14 @@
+{
+  "id": "B1",
+  "key": "trophy",
+  "title": "Trophy Cup",
+  "source": "https://grab3d.com/models/props/trophy/",
+  "author": "Grab3D",
+  "license": "CC0-1.0",
+  "download": "https://grab3d.com/dl/trophy/trophy.glb",
+  "licenseDownload": "https://grab3d.com/dl/trophy/LICENSE.txt",
+  "bytes": 586652,
+  "sha256": "be5a91364f4734da2cb019164a5837436f77bfc41f679f4caafe04a8085b8efa",
+  "local": "assets/selected-items/trophy/model.glb",
+  "status": "downloaded"
+}

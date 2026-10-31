@@ -1,0 +1,12 @@
+{
+  "name": "moya-webgl-companion",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node ../vendor/jelly-mobile/node_modules/vite/bin/vite.js build --config vite.config.mjs"
+  },
+  "license": "GPL-3.0-only",
+  "dependencies": {
+    "three.quarks": "^0.17.1"
+  }
+}

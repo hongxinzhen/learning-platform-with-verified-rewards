@@ -1,0 +1,16 @@
+{
+  "key": "hourglass",
+  "sourceId": "I7",
+  "title": "Hourglass",
+  "author": "Grab3D",
+  "license": "CC0-1.0",
+  "source": "https://grab3d.com/models/props/hourglass/",
+  "distribution": "https://grab3d.com/dl/hourglass/hourglass.glb",
+  "sha256": "9b734f0e5e6790671a6eae0a92513c4c92beb739f5dc5b934ee0b60f361b4e92",
+  "bytes": 583580,
+  "meshCount": 2,
+  "materialCount": 2,
+  "morphTargetCount": 0,
+  "extensionsUsed": [],
+  "animations": []
+}

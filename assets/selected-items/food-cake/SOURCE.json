@@ -1,0 +1,12 @@
+{
+  "key": "food-cake",
+  "title": "庆祝蛋糕",
+  "source": "https://grab3d.com/models/food/birthday-cake/",
+  "author": "Grab3D",
+  "license": "CC0-1.0",
+  "download": "https://grab3d.com/dl/birthday-cake/birthday-cake.glb",
+  "bytes": 1109620,
+  "sha256": "f5d8a28d9ecd47c76796fa24f7662bb05c0f3a272ca2addf86c33b063217c48a",
+  "local": "assets/selected-items/food-cake/model.glb",
+  "modifications": "Original GLB unmodified. Runtime scale/position only."
+}

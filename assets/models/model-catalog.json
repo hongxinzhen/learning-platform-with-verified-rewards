@@ -1,0 +1,204 @@
+{
+  "version": 1,
+  "verifiedOn": "2026-10-29",
+  "models": [
+    {
+      "id": "robot",
+      "name": "乐乐机器人",
+      "path": "assets/models/robot/RobotExpressive.glb",
+      "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/examples/models/gltf/RobotExpressive/RobotExpressive.glb",
+      "primarySource": "https://github.com/mrdoob/three.js/tree/dev/examples/models/gltf/RobotExpressive",
+      "authors": "Tomás Laulhé; modifications by Don McCurdy",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "bytes": 463988,
+      "sha256": "047f5e5fb3bb6d378bd1df16ca6137f2a596c99b3a1b5690b4020c05aaf6f319",
+      "clips": [
+        {
+          "name": "Dance",
+          "duration": 3.33333325386047,
+          "channels": 12
+        },
+        {
+          "name": "Death",
+          "duration": 0.958333313465118,
+          "channels": 18
+        },
+        {
+          "name": "Idle",
+          "duration": 3.33333325386047,
+          "channels": 7
+        },
+        {
+          "name": "Jump",
+          "duration": 0.708333313465118,
+          "channels": 18
+        },
+        {
+          "name": "No",
+          "duration": 1.66666662693024,
+          "channels": 7
+        },
+        {
+          "name": "Punch",
+          "duration": 0.833333313465118,
+          "channels": 15
+        },
+        {
+          "name": "Running",
+          "duration": 0.958333313465118,
+          "channels": 18
+        },
+        {
+          "name": "Sitting",
+          "duration": 0.416666656732559,
+          "channels": 10
+        },
+        {
+          "name": "Standing",
+          "duration": 0.416666656732559,
+          "channels": 10
+        },
+        {
+          "name": "ThumbsUp",
+          "duration": 1.58333337306976,
+          "channels": 15
+        },
+        {
+          "name": "Walking",
+          "duration": 0.958333313465118,
+          "channels": 20
+        },
+        {
+          "name": "WalkJump",
+          "duration": 0.833333313465118,
+          "channels": 18
+        },
+        {
+          "name": "Wave",
+          "duration": 1.83333337306976,
+          "channels": 18
+        },
+        {
+          "name": "Yes",
+          "duration": 1.66666662693024,
+          "channels": 7
+        }
+      ],
+      "safeActions": {
+        "idle": "Idle",
+        "wave": "Wave",
+        "jump": "Jump",
+        "walk": "Walking",
+        "run": "Running",
+        "dance": "Dance",
+        "thumbsUp": "ThumbsUp",
+        "yes": "Yes",
+        "sit": "Sitting"
+      },
+      "excludedClips": [
+        "Death",
+        "No",
+        "Punch",
+        "Standing",
+        "WalkJump"
+      ],
+      "suggestedDisplayHeight": 1.65,
+      "externalUris": [],
+      "notes": "模型原文件未修改。运行时需按Box3归一化并将底部落地；不要直接跨模型套骨骼动画。",
+      "verifiedOn": "2026-10-29"
+    },
+    {
+      "id": "corgi",
+      "name": "团团柯基",
+      "path": "assets/models/corgi/Corgi.glb",
+      "url": "https://gobkit.com/freebies/animal/Corgi.glb",
+      "primarySource": "https://gobkit.com/freebies",
+      "authors": "Gobkit / Alsomind Tech Co., Ltd.",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "bytes": 106928,
+      "sha256": "7137f257c72d7171ae5416dabf1df75b3b4ebfd5cab226354b14dc0ae720cf68",
+      "clips": [
+        {
+          "name": "idle",
+          "duration": 1.2083333730697632,
+          "channels": 42
+        },
+        {
+          "name": "attack",
+          "duration": 1.2083332538604736,
+          "channels": 48
+        },
+        {
+          "name": "dead",
+          "duration": 1.2083332538604736,
+          "channels": 48
+        },
+        {
+          "name": "walk",
+          "duration": 1.2083334922790527,
+          "channels": 48
+        }
+      ],
+      "safeActions": {
+        "idle": "idle",
+        "walk": "walk"
+      },
+      "excludedClips": [
+        "attack",
+        "dead"
+      ],
+      "suggestedDisplayHeight": 1.25,
+      "externalUris": [],
+      "notes": "模型原文件未修改。运行时需按Box3归一化并将底部落地；不要直接跨模型套骨骼动画。",
+      "verifiedOn": "2026-10-29"
+    },
+    {
+      "id": "seal",
+      "name": "泡泡海豹",
+      "path": "assets/models/seal/Seal.glb",
+      "url": "https://gobkit.com/freebies/animalB/Seal.glb",
+      "primarySource": "https://gobkit.com/freebies",
+      "authors": "Gobkit / Alsomind Tech Co., Ltd.",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "bytes": 165720,
+      "sha256": "c6075106afad0078f5fa0fc6740b4c806c6d2e7d371337acf185fddae5b6ec75",
+      "clips": [
+        {
+          "name": "idle",
+          "duration": 1.2083333730697632,
+          "channels": 21
+        },
+        {
+          "name": "attack",
+          "duration": 1.2083332538604736,
+          "channels": 21
+        },
+        {
+          "name": "dead",
+          "duration": 1.2083332538604736,
+          "channels": 21
+        },
+        {
+          "name": "walk",
+          "duration": 1.2083334922790527,
+          "channels": 21
+        }
+      ],
+      "safeActions": {
+        "idle": "idle",
+        "walk": "walk"
+      },
+      "excludedClips": [
+        "attack",
+        "dead"
+      ],
+      "suggestedDisplayHeight": 0.95,
+      "externalUris": [],
+      "notes": "模型原文件未修改。运行时需按Box3归一化并将底部落地；不要直接跨模型套骨骼动画。",
+      "verifiedOn": "2026-10-29"
+    }
+  ]
+}

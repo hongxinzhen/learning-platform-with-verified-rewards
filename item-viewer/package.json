@@ -1,0 +1,1 @@
+{"name":"moya-selected-item-viewer","private":true,"type":"module","license":"MIT","scripts":{"build":"node ../vendor/jelly-mobile/node_modules/vite/bin/vite.js build --config vite.config.mjs"}}

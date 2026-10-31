@@ -1,0 +1,13 @@
+{
+  "name": "learning-platform-with-verified-rewards",
+  "private": true,
+  "version": "0.9.0",
+  "scripts": {
+    "start": "node server.cjs",
+    "start:lan": "node server.cjs --lan",
+    "build:fox": "npm run build --prefix companion-viewer",
+    "test": "node --test --test-isolation=none tests/*.test.cjs",
+    "build:pet": "npm run build --prefix vendor/jelly-mobile"
+  },
+  "license": "GPL-3.0-only"
+}

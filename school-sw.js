@@ -1,0 +1,2 @@
+/* Never cache private API responses or children's media. */
+self.addEventListener('install',()=>self.skipWaiting());self.addEventListener('activate',e=>e.waitUntil(self.clients.claim()));self.addEventListener('fetch',e=>{if(e.request.mode==='navigate')e.respondWith(fetch(e.request).catch(()=>new Response('<!doctype html><meta charset="utf-8"><h1>请连接墨芽学习服务</h1><p>学习资料保存在机构电脑上。请确认电脑已启动服务、手机与电脑在同一网络，然后重新打开。</p>',{headers:{'Content-Type':'text/html; charset=utf-8'}})))});

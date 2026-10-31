@@ -1,0 +1,298 @@
+[
+  {
+    "id": "click",
+    "title": "按钮轻触",
+    "description": "最频繁的操作，建议短、轻，避免每次点击都像领奖。",
+    "candidates": [
+      {
+        "id": "A",
+        "file": "candidate-click-A.wav",
+        "label": "机械按键",
+        "seconds": 0.06,
+        "source": "ui",
+        "original": "mouseclick1.ogg",
+        "license": "CC0-1.0",
+        "sha256": "c329dbcc966f84ba5e2351e5117ce11b822a84ab118369b809ab3fe530e6307d"
+      },
+      {
+        "id": "B",
+        "file": "candidate-click-B.wav",
+        "label": "短点击",
+        "seconds": 0.08,
+        "source": "ui",
+        "original": "click3.ogg",
+        "license": "CC0-1.0",
+        "sha256": "2f6cd21afe034f018850a0a23f13756b9dce45d60c2edb48534093cd61b2f1a0"
+      },
+      {
+        "id": "C",
+        "file": "candidate-click-C.wav",
+        "label": "选择提示",
+        "seconds": 0.04,
+        "source": "kenney-interface",
+        "original": "select_002.ogg",
+        "license": "CC0-1.0",
+        "sha256": "20ddaaea2aac52e800481006104cabaf4e5b3a8a13ad356e4975d1593e35dc0c"
+      }
+    ]
+  },
+  {
+    "id": "enter",
+    "title": "进入／返回页面",
+    "description": "进入任务、背包或成长路线；返回可用同一方向的更轻版本。",
+    "candidates": [
+      {
+        "id": "A",
+        "file": "candidate-enter-A.wav",
+        "label": "展开提示",
+        "seconds": 0.31,
+        "source": "kenney-interface",
+        "original": "open_003.ogg",
+        "license": "CC0-1.0",
+        "sha256": "2d5e4f9d3243b27133365a5af945b39cc4b1a2e7089c2a29b282d476aba69713"
+      },
+      {
+        "id": "B",
+        "file": "candidate-enter-B.wav",
+        "label": "扩展提示",
+        "seconds": 0.21,
+        "source": "kenney-interface",
+        "original": "maximize_003.ogg",
+        "license": "CC0-1.0",
+        "sha256": "1a7cbad0e731480bd3ee2eac096764f63084d6f02194cef8db0dbfb7c0cc2d41"
+      },
+      {
+        "id": "C",
+        "file": "candidate-enter-C.wav",
+        "label": "短导航",
+        "seconds": 0.07,
+        "source": "ui",
+        "original": "rollover3.ogg",
+        "license": "CC0-1.0",
+        "sha256": "9f25e05c040574fadb94eabbfd818ea4b5ea441d7e07084768e49899deb59b65"
+      }
+    ]
+  },
+  {
+    "id": "page",
+    "title": "翻阅任务／地图",
+    "description": "切换任务阶段、地图分页，声音不应盖过其他反馈。",
+    "candidates": [
+      {
+        "id": "A",
+        "file": "candidate-page-A.wav",
+        "label": "摩擦质感",
+        "seconds": 0.14,
+        "source": "kenney-interface",
+        "original": "scratch_002.ogg",
+        "license": "CC0-1.0",
+        "sha256": "4dc8bad8c63f90484eff3d981314270739a97c0a8121b2e1096fa56444a2bef6"
+      },
+      {
+        "id": "B",
+        "file": "candidate-page-B.wav",
+        "label": "滚动质感",
+        "seconds": 1.0,
+        "source": "kenney-interface",
+        "original": "scroll_003.ogg",
+        "license": "CC0-1.0",
+        "sha256": "b3740f3fc8b4f3b4677e6a0ea1d8ba4efe3ce9080a7092afb395ef02655e091a"
+      },
+      {
+        "id": "C",
+        "file": "candidate-page-C.wav",
+        "label": "切换质感",
+        "seconds": 0.36,
+        "source": "ui",
+        "original": "switch3.ogg",
+        "license": "CC0-1.0",
+        "sha256": "7fa55a4bf3835bdca9094b28167fc049e61e8f0cbfcb47b8d09af8d8db742061"
+      }
+    ]
+  },
+  {
+    "id": "submit",
+    "title": "提交练习成功",
+    "description": "提交已保存，老师点评尚未到达时的即时确认。",
+    "candidates": [
+      {
+        "id": "A",
+        "file": "candidate-submit-A.wav",
+        "label": "确认提示",
+        "seconds": 0.54,
+        "source": "kenney-interface",
+        "original": "confirmation_002.ogg",
+        "license": "CC0-1.0",
+        "sha256": "70f7332f249dde93bd5acb916328d8e086299872af067fc0a26a494bb47ceeca"
+      },
+      {
+        "id": "B",
+        "file": "candidate-submit-B.wav",
+        "label": "短拨弦",
+        "seconds": 0.1,
+        "source": "kenney-interface",
+        "original": "pluck_001.ogg",
+        "license": "CC0-1.0",
+        "sha256": "aed97439d906467914e7447e31e4720eec887e0b27b52f480accb35c2df23b31"
+      },
+      {
+        "id": "C",
+        "file": "candidate-submit-C.wav",
+        "label": "玻璃质感",
+        "seconds": 0.12,
+        "source": "kenney-interface",
+        "original": "glass_002.ogg",
+        "license": "CC0-1.0",
+        "sha256": "193ee8ad8668aef58900b56beb454fc17be323b8e72998f88ad1529b1c3d9609"
+      }
+    ]
+  },
+  {
+    "id": "reward",
+    "title": "领取普通奖励",
+    "description": "经验入账、领取任务奖励，短于升级庆祝。",
+    "candidates": [
+      {
+        "id": "A",
+        "file": "candidate-reward-A.wav",
+        "label": "玻璃提示",
+        "seconds": 0.13,
+        "source": "kenney-interface",
+        "original": "glass_005.ogg",
+        "license": "CC0-1.0",
+        "sha256": "a6511781721cfc75ac1154ec401c2836f95243652ef08a9d5216b0d305ee7965"
+      },
+      {
+        "id": "B",
+        "file": "candidate-reward-B.wav",
+        "label": "完成提示",
+        "seconds": 0.32,
+        "source": "kenney-interface",
+        "original": "confirmation_003.ogg",
+        "license": "CC0-1.0",
+        "sha256": "bcd9eb33a8a28a87827b1830d5d64c1a1d95ea3bce5edf5941d7a6e9c2b60595"
+      },
+      {
+        "id": "C",
+        "file": "candidate-reward-C.wav",
+        "label": "拨弦提示",
+        "seconds": 0.16,
+        "source": "kenney-interface",
+        "original": "pluck_002.ogg",
+        "license": "CC0-1.0",
+        "sha256": "4384dc50d0dde1b89f06bc95d9811908447fb34a7f8e9caf9d097ca55496ef1d"
+      }
+    ]
+  },
+  {
+    "id": "level",
+    "title": "主人公／宠物升级",
+    "description": "配合等级数字出现，可分别选择后再细分主人公和宠物。",
+    "candidates": [
+      {
+        "id": "A",
+        "file": "candidate-level-A.wav",
+        "label": "拨弦乐句 00",
+        "seconds": 0.49,
+        "source": "jingles",
+        "original": "jingles_PIZZI00.ogg",
+        "license": "CC0-1.0",
+        "sha256": "8cf0042509274605d64d3a503dd17477457de906a8eb553f2ad7bf49f1028977"
+      },
+      {
+        "id": "B",
+        "file": "candidate-level-B.wav",
+        "label": "钢鼓乐句 00",
+        "seconds": 0.93,
+        "source": "jingles",
+        "original": "jingles_STEEL00.ogg",
+        "license": "CC0-1.0",
+        "sha256": "69e4755b486fc012599bb0b018334f41ee9cd049b21391be07996190c87e60de"
+      },
+      {
+        "id": "C",
+        "file": "candidate-level-C.wav",
+        "label": "打击乐句 00",
+        "seconds": 0.28,
+        "source": "jingles",
+        "original": "jingles_HIT00.ogg",
+        "license": "CC0-1.0",
+        "sha256": "4cbf900b778455deae3fe531ea8d08e4b435b9e8a3f3892e8559484f0e0b5cfa"
+      }
+    ]
+  },
+  {
+    "id": "achievement",
+    "title": "重要成就／进化庆祝",
+    "description": "只用于值得停下来庆祝的大节点；短乐句，不循环，不是BGM。",
+    "candidates": [
+      {
+        "id": "A",
+        "file": "candidate-achievement-A.wav",
+        "label": "拨弦乐句 04",
+        "seconds": 0.56,
+        "source": "jingles",
+        "original": "jingles_PIZZI04.ogg",
+        "license": "CC0-1.0",
+        "sha256": "1c5a6b38b8d37bcb943084730c8447c66ae2af230e223ae65c2afbb1c873a4e8"
+      },
+      {
+        "id": "B",
+        "file": "candidate-achievement-B.wav",
+        "label": "钢鼓乐句 04",
+        "seconds": 0.91,
+        "source": "jingles",
+        "original": "jingles_STEEL04.ogg",
+        "license": "CC0-1.0",
+        "sha256": "1f139e752607410e159757d47ae372f559c5ba3cf2508335223f4f97bd3e3b15"
+      },
+      {
+        "id": "C",
+        "file": "candidate-achievement-C.wav",
+        "label": "打击乐句 04",
+        "seconds": 0.64,
+        "source": "jingles",
+        "original": "jingles_HIT04.ogg",
+        "license": "CC0-1.0",
+        "sha256": "9ac4e8c1fb5a5c4bcfcf3b6bc38a03acdf3ec593bf87de8df9f08707321d9094"
+      }
+    ]
+  },
+  {
+    "id": "pet",
+    "title": "投喂／伙伴回应",
+    "description": "果实入口、宠物回应的声音；之后可再拆分动作。",
+    "candidates": [
+      {
+        "id": "A",
+        "file": "candidate-pet-A.wav",
+        "label": "落下提示",
+        "seconds": 0.13,
+        "source": "kenney-interface",
+        "original": "drop_001.ogg",
+        "license": "CC0-1.0",
+        "sha256": "bd909ff280b6875996447ae5f37b70d8e0844abf1d7daf975cc2995e51c403ce"
+      },
+      {
+        "id": "B",
+        "file": "candidate-pet-B.wav",
+        "label": "弹性质感",
+        "seconds": 0.12,
+        "source": "kenney-interface",
+        "original": "bong_001.ogg",
+        "license": "CC0-1.0",
+        "sha256": "1efad1ef1ee85edab582573877a03e881f84aae949766ac9a63ece1e11b2e660"
+      },
+      {
+        "id": "C",
+        "file": "candidate-pet-C.wav",
+        "label": "轻落提示",
+        "seconds": 0.28,
+        "source": "kenney-interface",
+        "original": "drop_004.ogg",
+        "license": "CC0-1.0",
+        "sha256": "a8d0af1f2a7c604227ed345dcdb784e28b189d48aa530465320292e26914273f"
+      }
+    ]
+  }
+]

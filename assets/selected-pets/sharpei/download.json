@@ -1,0 +1,33 @@
+{
+  "id": "sharpei",
+  "uid": "ed151fd59a894b3290d9eee3f716f0bf",
+  "url": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/glbs/000-126/ed151fd59a894b3290d9eee3f716f0bf.glb",
+  "file": "assets\\selected-pets\\sharpei\\model.glb",
+  "bytes": 787012,
+  "sha256": "2181fa66188ab65764f3ea060b9262d3f9975827899dafce72ccde11807e8912",
+  "asset": {
+    "extras": {
+      "author": "Artsiom Savelyeu (https://sketchfab.com/artsiom)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/free-shar-pei-animated-dog-ed151fd59a894b3290d9eee3f716f0bf",
+      "title": "Free Shar Pei Animated Dog"
+    },
+    "generator": "Sketchfab-12.67.0",
+    "version": "2.0"
+  },
+  "animations": [
+    {
+      "name": "sitting_idle",
+      "channels": 27
+    },
+    {
+      "name": "walking_cycle",
+      "channels": 54
+    },
+    {
+      "name": "standing_idle",
+      "channels": 40
+    }
+  ],
+  "status": "downloaded_public_cc_mirror"
+}

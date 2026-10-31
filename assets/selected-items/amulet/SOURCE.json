@@ -1,0 +1,14 @@
+{
+  "id": "N-I4",
+  "key": "amulet",
+  "uid": "f29a9e44293d42f7b499b6e1fda111e8",
+  "title": "能量护符 · Power Amulet",
+  "source": "https://sketchfab.com/3d-models/power-amulet-f29a9e44293d42f7b499b6e1fda111e8",
+  "license": "CC-BY-4.0",
+  "author": "Benz",
+  "download": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/glbs/000-105/f29a9e44293d42f7b499b6e1fda111e8.glb",
+  "bytes": 7745852,
+  "sha256": "7928e7275e30c5bc2bfda8c58c9e96fe2379feff661a2b33692013876f6bf565",
+  "local": "assets/selected-items/amulet/model.glb",
+  "status": "downloaded"
+}

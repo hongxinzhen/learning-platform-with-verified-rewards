@@ -1,0 +1,14 @@
+{
+  "id": "I4",
+  "key": "chest",
+  "uid": "1c992fcba0a54ff49d817ad27a2b4bd4",
+  "title": "手绘宝箱 · 升级礼包的实体",
+  "source": "https://sketchfab.com/3d-models/stylized-treasure-chest-1c992fcba0a54ff49d817ad27a2b4bd4",
+  "license": "CC-BY-4.0",
+  "author": "marcosgon",
+  "download": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/glbs/000-085/1c992fcba0a54ff49d817ad27a2b4bd4.glb",
+  "bytes": 2657864,
+  "sha256": "825af8a28ef09c8dea5fa56286b84f7553dfb0dbaf2b1ffc8fafbf79cbca5936",
+  "local": "assets/selected-items/chest/model.glb",
+  "status": "downloaded"
+}

@@ -1,0 +1,112 @@
+[
+  {
+    "id": "I1",
+    "key": "crystal",
+    "uid": "0a0c75dab0844e7fa5b299d4af858bec",
+    "title": "手绘魔晶 · 替代平面经验图标",
+    "source": "https://sketchfab.com/3d-models/stylized-crystal-0a0c75dab0844e7fa5b299d4af858bec",
+    "license": "CC-BY-4.0",
+    "author": "LowlyPoly",
+    "download": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/glbs/000-050/0a0c75dab0844e7fa5b299d4af858bec.glb"
+  },
+  {
+    "id": "I3",
+    "key": "spellbook",
+    "uid": "d3be15f30054493ab2bf5490426467b2",
+    "title": "奥术书册 · 把任务做成收藏物",
+    "source": "https://sketchfab.com/3d-models/arcane-spellbook-d3be15f30054493ab2bf5490426467b2",
+    "license": "CC-BY-4.0",
+    "author": "Kayla Hill",
+    "download": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/glbs/000-033/d3be15f30054493ab2bf5490426467b2.glb"
+  },
+  {
+    "id": "I4",
+    "key": "chest",
+    "uid": "1c992fcba0a54ff49d817ad27a2b4bd4",
+    "title": "手绘宝箱 · 升级礼包的实体",
+    "source": "https://sketchfab.com/3d-models/stylized-treasure-chest-1c992fcba0a54ff49d817ad27a2b4bd4",
+    "license": "CC-BY-4.0",
+    "author": "marcosgon",
+    "download": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/glbs/000-085/1c992fcba0a54ff49d817ad27a2b4bd4.glb"
+  },
+  {
+    "id": "N-I1",
+    "key": "sands-of-time",
+    "uid": "0a227353cd804df2b5414107d9e36d18",
+    "title": "流沙沙漏 · Sands of Time",
+    "source": "https://sketchfab.com/3d-models/sands-of-time-0a227353cd804df2b5414107d9e36d18",
+    "license": "CC-BY-4.0",
+    "author": "Antonio Gloria",
+    "download": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/glbs/000-139/0a227353cd804df2b5414107d9e36d18.glb"
+  },
+  {
+    "id": "N-I2",
+    "key": "potion-moon",
+    "uid": "78d411a585144c4f91ca51d876982ed7",
+    "title": "手绘单瓶 · Stylized Potion",
+    "source": "https://sketchfab.com/3d-models/stylized-potion-78d411a585144c4f91ca51d876982ed7",
+    "license": "CC-BY-4.0",
+    "author": "Moon Cube Studios",
+    "download": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/glbs/000-101/78d411a585144c4f91ca51d876982ed7.glb"
+  },
+  {
+    "id": "N-I3",
+    "key": "potion-rudolfs",
+    "uid": "5079014d2c8e4f879790e4b88142c9a0",
+    "title": "手绘发光药瓶 · Potion",
+    "source": "https://sketchfab.com/3d-models/potion-5079014d2c8e4f879790e4b88142c9a0",
+    "license": "CC-BY-4.0",
+    "author": "rudolfs",
+    "download": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/glbs/000-000/5079014d2c8e4f879790e4b88142c9a0.glb"
+  },
+  {
+    "id": "N-I4",
+    "key": "amulet",
+    "uid": "f29a9e44293d42f7b499b6e1fda111e8",
+    "title": "能量护符 · Power Amulet",
+    "source": "https://sketchfab.com/3d-models/power-amulet-f29a9e44293d42f7b499b6e1fda111e8",
+    "license": "CC-BY-4.0",
+    "author": "Benz",
+    "download": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/glbs/000-105/f29a9e44293d42f7b499b6e1fda111e8.glb"
+  },
+  {
+    "id": "N-B1",
+    "key": "game-badge",
+    "uid": "217e60cf60254f24bb04f9962ae33922",
+    "title": "真正的游戏成就徽章 · Game Badge",
+    "source": "https://sketchfab.com/3d-models/game-badge-217e60cf60254f24bb04f9962ae33922",
+    "license": "CC-BY-4.0",
+    "author": "blacksheeptal",
+    "download": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/glbs/000-044/217e60cf60254f24bb04f9962ae33922.glb"
+  },
+  {
+    "id": "N-B2",
+    "key": "star-badge",
+    "uid": "4e75bf25e07446e7952d8db10e29f22c",
+    "title": "金属星形徽章 · Badge",
+    "source": "https://sketchfab.com/3d-models/badge-4e75bf25e07446e7952d8db10e29f22c",
+    "license": "CC-BY-4.0",
+    "author": "Microsoft",
+    "download": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/glbs/000-138/4e75bf25e07446e7952d8db10e29f22c.glb"
+  },
+  {
+    "id": "I7",
+    "key": "hourglass",
+    "title": "Hourglass",
+    "source": "https://grab3d.com/models/props/hourglass/",
+    "author": "Grab3D",
+    "license": "CC0-1.0",
+    "download": "https://grab3d.com/dl/hourglass/hourglass.glb",
+    "licenseDownload": "https://grab3d.com/dl/hourglass/LICENSE.txt"
+  },
+  {
+    "id": "B1",
+    "key": "trophy",
+    "title": "Trophy Cup",
+    "source": "https://grab3d.com/models/props/trophy/",
+    "author": "Grab3D",
+    "license": "CC0-1.0",
+    "download": "https://grab3d.com/dl/trophy/trophy.glb",
+    "licenseDownload": "https://grab3d.com/dl/trophy/LICENSE.txt"
+  }
+]

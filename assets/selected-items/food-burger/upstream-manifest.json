@@ -1,0 +1,55 @@
+{
+ "slug": "burger",
+ "triangles": 28160,
+ "texture_px": 2048,
+ "triangles_light": 14079,
+ "texture_px_light": 1024,
+ "files": {
+  "glb": {
+   "name": "burger.glb",
+   "bytes": 1407960
+  },
+  "blend": {
+   "name": "burger.blend",
+   "bytes": 1529327
+  },
+  "fbx": {
+   "name": "burger.fbx",
+   "bytes": 2727468
+  },
+  "obj": {
+   "name": "burger-obj.zip",
+   "bytes": 1385978
+  },
+  "usdz": {
+   "name": "burger.usdz",
+   "bytes": 2407399
+  },
+  "glb_light": {
+   "name": "burger-light.glb",
+   "bytes": 623744
+  },
+  "fbx_light": {
+   "name": "burger-light.fbx",
+   "bytes": 1348252
+  }
+ },
+ "extras": {
+  "license": "CC0-1.0",
+  "source": "grab3d.com",
+  "dimensions_m": "0.134 x 0.132 x 0.103",
+  "triangles": 28160,
+  "textures": "PBR 2048px: base color, roughness, metallic, normal (baked)",
+  "generator": "Created by grab3d",
+  "created": "2026-09-26",
+  "set": "Cozy Home Kit",
+  "real_size": "cheeseburger, bun 11 cm wide, 10.3 cm tall, lettuce overhang 13.4 cm",
+  "notes": "sesame bun (42 seeds), patty, draped cheese, lettuce, 2 tomato slices, red onion ring; layers touch without intersecting"
+ },
+ "origin": {
+  "method": "procedural",
+  "detail": "Built procedurally with Blender scripts. The scripts were written with the help of an AI coding assistant. No generative AI model produced the geometry or textures directly.",
+  "ai_content": false,
+  "ai_assisted_code": true
+ }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "N-B2",
+  "key": "star-badge",
+  "uid": "4e75bf25e07446e7952d8db10e29f22c",
+  "title": "金属星形徽章 · Badge",
+  "source": "https://sketchfab.com/3d-models/badge-4e75bf25e07446e7952d8db10e29f22c",
+  "license": "CC-BY-4.0",
+  "author": "Microsoft",
+  "download": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/glbs/000-138/4e75bf25e07446e7952d8db10e29f22c.glb",
+  "bytes": 1026160,
+  "sha256": "59a2f906c09c99315ae1ba38d3cedde798ac490a0064c0dda111bcef8a3d6de5",
+  "local": "assets/selected-items/star-badge/model.glb",
+  "status": "downloaded"
+}

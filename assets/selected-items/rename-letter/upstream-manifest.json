@@ -1,0 +1,47 @@
+{
+ "slug": "letter",
+ "triangles": 5512,
+ "texture_px": 2048,
+ "triangles_light": null,
+ "texture_px_light": null,
+ "files": {
+  "glb": {
+   "name": "letter.glb",
+   "bytes": 435940
+  },
+  "blend": {
+   "name": "letter.blend",
+   "bytes": 387255
+  },
+  "fbx": {
+   "name": "letter.fbx",
+   "bytes": 796348
+  },
+  "obj": {
+   "name": "letter-obj.zip",
+   "bytes": 284667
+  },
+  "usdz": {
+   "name": "letter.usdz",
+   "bytes": 703524
+  }
+ },
+ "extras": {
+  "license": "CC0-1.0",
+  "source": "grab3d.com",
+  "dimensions_m": "0.220 x 0.110 x 0.008",
+  "triangles": 5512,
+  "textures": "PBR 2048px: base color, roughness, metallic, normal (baked)",
+  "generator": "Created by grab3d",
+  "created": "2026-10-18",
+  "real_size": "sealed envelope, 22 x 11 cm",
+  "notes": "lies flat with the back side up; pointed flap closed with a red wax seal embossed with a star; sender lines suggested as blank ink bars; parchment paper slightly curved; no text",
+  "set": "Cozy Curiosities Kit"
+ },
+ "origin": {
+  "method": "procedural",
+  "detail": "Built procedurally with Blender scripts. The scripts were written with the help of an AI coding assistant. No generative AI model produced the geometry or textures directly.",
+  "ai_content": false,
+  "ai_assisted_code": true
+ }
+}

@@ -1,0 +1,16 @@
+{
+  "key": "crystal",
+  "sourceId": "I1",
+  "title": "手绘魔晶 · 替代平面经验图标",
+  "author": "LowlyPoly",
+  "license": "CC-BY-4.0",
+  "source": "https://sketchfab.com/3d-models/stylized-crystal-0a0c75dab0844e7fa5b299d4af858bec",
+  "distribution": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/glbs/000-050/0a0c75dab0844e7fa5b299d4af858bec.glb",
+  "sha256": "5f04565644954082f3f8dcd1cdc186703448f0cfa967dfb7c2d6151db49a865a",
+  "bytes": 618932,
+  "meshCount": 1,
+  "materialCount": 1,
+  "morphTargetCount": 0,
+  "extensionsUsed": [],
+  "animations": []
+}

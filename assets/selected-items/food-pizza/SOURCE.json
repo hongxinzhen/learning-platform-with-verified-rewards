@@ -1,0 +1,12 @@
+{
+  "key": "food-pizza",
+  "title": "缤纷披萨",
+  "source": "https://grab3d.com/models/food/pizza/",
+  "author": "Grab3D",
+  "license": "CC0-1.0",
+  "download": "https://grab3d.com/dl/pizza/pizza.glb",
+  "bytes": 1247124,
+  "sha256": "99cf98a68f9c49df92dfd3411b4b3d77e5004808883eda6343f4509cb59ca5e0",
+  "local": "assets/selected-items/food-pizza/model.glb",
+  "modifications": "Original GLB unmodified. Runtime scale/position only."
+}

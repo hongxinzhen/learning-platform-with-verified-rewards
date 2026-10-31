@@ -1,0 +1,16 @@
+{
+  "key": "potion-moon",
+  "sourceId": "N-I2",
+  "title": "手绘单瓶 · Stylized Potion",
+  "author": "Moon Cube Studios",
+  "license": "CC-BY-4.0",
+  "source": "https://sketchfab.com/3d-models/stylized-potion-78d411a585144c4f91ca51d876982ed7",
+  "distribution": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/glbs/000-101/78d411a585144c4f91ca51d876982ed7.glb",
+  "sha256": "ad4395a002e2b9e73f4d1531025ef50dccfda20e4ca5ca99ef98027c6a1e1bc8",
+  "bytes": 2623948,
+  "meshCount": 1,
+  "materialCount": 1,
+  "morphTargetCount": 0,
+  "extensionsUsed": [],
+  "animations": []
+}

@@ -1,0 +1,89 @@
+{
+  "sources": [
+    "https://kenney.nl/assets/interface-sounds",
+    "https://opengameart.org/content/win-sound-effect"
+  ],
+  "processing": "Kenney OGG converted to mono 44.1kHz PCM WAV; Listener original converted to same format for predictable decoding. No music loops.",
+  "files": [
+    {
+      "file": "back_001.wav",
+      "seconds": 0.061,
+      "bytes": 5456,
+      "sha256": "7b48628b4c84273c156cd76341e5dfcb13d6166b8abdca620a032fb8bdb02bac",
+      "source": "Kenney Interface Sounds",
+      "license": "CC0-1.0"
+    },
+    {
+      "file": "celebration.wav",
+      "seconds": 4.446,
+      "bytes": 392276,
+      "sha256": "324aefa542b3b1f9675e34ce2841d1a7e86ec20162952bfa9eb56b252161c7c5",
+      "source": "Listener / OpenGameArt",
+      "license": "CC0-1.0"
+    },
+    {
+      "file": "click_001.wav",
+      "seconds": 0.097,
+      "bytes": 8644,
+      "sha256": "d740c9edb370be6196fa59803b36e640a7057c71ca310c4081b0672e50567027",
+      "source": "Kenney Interface Sounds",
+      "license": "CC0-1.0"
+    },
+    {
+      "file": "confirmation_001.wav",
+      "seconds": 0.29,
+      "bytes": 25642,
+      "sha256": "77af33aaf39e72bb62e563bfc0bf3b8a629d5cc18efa6f9dac989e57b0d94c23",
+      "source": "Kenney Interface Sounds",
+      "license": "CC0-1.0"
+    },
+    {
+      "file": "confirmation_004.wav",
+      "seconds": 0.49,
+      "bytes": 43332,
+      "sha256": "2a9dfece9cba497120c1d42ab87e3e4f5b48e86d2396b4f964a26fc66d1bb59a",
+      "source": "Kenney Interface Sounds",
+      "license": "CC0-1.0"
+    },
+    {
+      "file": "drop_003.wav",
+      "seconds": 0.188,
+      "bytes": 16676,
+      "sha256": "e9631b0032eec4bcaeefb36fca0f7cd99b7fb394d6dbba2339bdbce2b2fa1d86",
+      "source": "Kenney Interface Sounds",
+      "license": "CC0-1.0"
+    },
+    {
+      "file": "error_001.wav",
+      "seconds": 0.162,
+      "bytes": 14336,
+      "sha256": "8b44beff89a1063a2fc750a8214450e5afd35413b82fd0034192e17cae4f4581",
+      "source": "Kenney Interface Sounds",
+      "license": "CC0-1.0"
+    },
+    {
+      "file": "glass_003.wav",
+      "seconds": 0.121,
+      "bytes": 10730,
+      "sha256": "6009a0364ce2aaa366c699cc8d21e33c7ca41d3936376c826b482c121d260424",
+      "source": "Kenney Interface Sounds",
+      "license": "CC0-1.0"
+    },
+    {
+      "file": "open_001.wav",
+      "seconds": 0.148,
+      "bytes": 13112,
+      "sha256": "5f928841c19076e104bf187b50af5e48736ad00e146503f33d3da6f2771901fe",
+      "source": "Kenney Interface Sounds",
+      "license": "CC0-1.0"
+    },
+    {
+      "file": "scroll_002.wav",
+      "seconds": 1.0,
+      "bytes": 88280,
+      "sha256": "49002c2e6a899a692ccb9ccbc01e95f7156ec484e2b450aec6f472450929ee3b",
+      "source": "Kenney Interface Sounds",
+      "license": "CC0-1.0"
+    }
+  ]
+}

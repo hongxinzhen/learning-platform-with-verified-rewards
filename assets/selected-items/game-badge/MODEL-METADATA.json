@@ -1,0 +1,16 @@
+{
+  "key": "game-badge",
+  "sourceId": "N-B1",
+  "title": "真正的游戏成就徽章 · Game Badge",
+  "author": "blacksheeptal",
+  "license": "CC-BY-4.0",
+  "source": "https://sketchfab.com/3d-models/game-badge-217e60cf60254f24bb04f9962ae33922",
+  "distribution": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/glbs/000-044/217e60cf60254f24bb04f9962ae33922.glb",
+  "sha256": "fd6d4a719e8dcfa413e6955fc670452bfcfb7912ae258c95ed8ff64f05bb6654",
+  "bytes": 32805744,
+  "meshCount": 14,
+  "materialCount": 13,
+  "morphTargetCount": 0,
+  "extensionsUsed": [],
+  "animations": []
+}

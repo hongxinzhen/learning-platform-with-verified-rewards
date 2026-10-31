@@ -1,0 +1,47 @@
+{
+ "slug": "birthday-cake",
+ "triangles": 15102,
+ "texture_px": 2048,
+ "triangles_light": null,
+ "texture_px_light": null,
+ "files": {
+  "glb": {
+   "name": "birthday-cake.glb",
+   "bytes": 1109620
+  },
+  "blend": {
+   "name": "birthday-cake.blend",
+   "bytes": 1076567
+  },
+  "fbx": {
+   "name": "birthday-cake.fbx",
+   "bytes": 1993020
+  },
+  "obj": {
+   "name": "birthday-cake-obj.zip",
+   "bytes": 1095487
+  },
+  "usdz": {
+   "name": "birthday-cake.usdz",
+   "bytes": 1730945
+  }
+ },
+ "extras": {
+  "license": "CC0-1.0",
+  "source": "grab3d.com",
+  "dimensions_m": "0.281 x 0.281 x 0.254",
+  "triangles": 15102,
+  "textures": "PBR 2048px: base color, roughness, metallic, normal (baked)",
+  "generator": "Created by grab3d",
+  "created": "2026-10-18",
+  "real_size": "two tier birthday cake, 24 cm and 15 cm tiers, approx. 28 x 28 x 25 cm on its board",
+  "notes": "mint buttercream tier with colourful sugar confetti, pink tier with white dots, white piped shell borders, six twisted candles; flames are a separate emissive object ('birthday-cake_flames', not baked); rosettes and a strawberry on top; no text",
+  "set": "Cozy Sweets Kit"
+ },
+ "origin": {
+  "method": "procedural",
+  "detail": "Built procedurally with Blender scripts. The scripts were written with the help of an AI coding assistant. No generative AI model produced the geometry or textures directly.",
+  "ai_content": false,
+  "ai_assisted_code": true
+ }
+}

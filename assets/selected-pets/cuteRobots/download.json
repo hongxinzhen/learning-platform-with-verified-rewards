@@ -1,0 +1,57 @@
+{
+  "id": "cuteRobots",
+  "uid": "c9938d49af2d4bf7abe40e366d37a5d0",
+  "url": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/glbs/000-132/c9938d49af2d4bf7abe40e366d37a5d0.glb",
+  "file": "assets\\selected-pets\\cuteRobots\\model.glb",
+  "bytes": 8349544,
+  "sha256": "df07c9b435a8b04cd603bd6353f4b1cfa5d3c1893fb635b2e1027013f4e00926",
+  "asset": {
+    "extras": {
+      "author": "m1ch3lang3lo (https://sketchfab.com/berkankirmitt)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/cute-robots-low-poly-rigged-animated-c9938d49af2d4bf7abe40e366d37a5d0",
+      "title": "Cute Robots - Low Poly - Rigged - Animated"
+    },
+    "generator": "Sketchfab-12.67.0",
+    "version": "2.0"
+  },
+  "animations": [
+    {
+      "name": "Armature|Idle",
+      "channels": 96
+    },
+    {
+      "name": "Armature|Jump",
+      "channels": 96
+    },
+    {
+      "name": "Armature|Run",
+      "channels": 94
+    },
+    {
+      "name": "Armature.001|Idle",
+      "channels": 96
+    },
+    {
+      "name": "Armature.001|Jump",
+      "channels": 96
+    },
+    {
+      "name": "Armature.001|Run",
+      "channels": 94
+    },
+    {
+      "name": "Armature.002|Idle",
+      "channels": 96
+    },
+    {
+      "name": "Armature.002|Jump",
+      "channels": 96
+    },
+    {
+      "name": "Armature.002|Run",
+      "channels": 94
+    }
+  ],
+  "status": "downloaded_public_cc_mirror"
+}

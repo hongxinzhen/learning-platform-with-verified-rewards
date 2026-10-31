@@ -1,0 +1,39 @@
+# Runtime records, uploads, sessions and backups are local only.
+/data/
+**/node_modules/
+*.sqlite
+*.sqlite-wal
+*.sqlite-shm
+*.db
+*.before-restore-*
+*.log
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.pfx
+*.p12
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+# Reproducible 100 MB source archive: corresponding source is tracked directly.
+/companion-viewer/licenses/moya-companion-source.zip
+# Superseded built model; current viewer uses the documented mobile derivative.
+/item-viewer/assets/model-XHnYiRLU.glb
+# Internal working notes, downloads and machine-specific QA; keep test helpers.
+/design/*
+!/design/test-selected-pets.mjs
+!/design/verify-selected-items.mjs
+!/design/build-companion-source.py
+!/design/reward-simulator.html
+!/design/奖励机制-v1.md
+!/design/reward-config-v3.json
+!/design/reward-model-v1.json
+
+# Incomplete original download checkouts; adapted source is vendor/jelly-mobile.
+/vendor/jelly-baby/
+/vendor/jelly-source/
+
+**/.upstream-git/

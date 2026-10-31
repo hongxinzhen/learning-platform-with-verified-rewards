@@ -1,0 +1,12 @@
+{
+  "key": "food-burger",
+  "title": "芝士汉堡",
+  "source": "https://grab3d.com/models/food/burger/",
+  "author": "Grab3D",
+  "license": "CC0-1.0",
+  "download": "https://grab3d.com/dl/burger/burger.glb",
+  "bytes": 1407960,
+  "sha256": "fd987a15ade432d05c07dc54c5861cc0b70fdbae14b13415633b491b86a25555",
+  "local": "assets/selected-items/food-burger/model.glb",
+  "modifications": "Original GLB unmodified. Runtime scale/position only."
+}

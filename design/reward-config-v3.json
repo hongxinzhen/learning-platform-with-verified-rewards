@@ -1,0 +1,59 @@
+{
+  "version": 3,
+  "hero_step": {
+    "base": 100,
+    "slope": 30
+  },
+  "pet_step": {
+    "base": 100,
+    "slope": 15,
+    "cap": 100
+  },
+  "daily": {
+    "first_xp": 100,
+    "streak_increment": 10,
+    "cap_xp": 200,
+    "small_fruit": 2
+  },
+  "extra": {
+    "xp": 40,
+    "small_fruit": 1,
+    "daily_limit": 1
+  },
+  "attendance": [
+    {
+      "ordinal": 1,
+      "xp": 100,
+      "small_fruit": 2
+    },
+    {
+      "ordinal": 2,
+      "xp": 200,
+      "small_fruit": 3
+    },
+    {
+      "ordinal": 3,
+      "xp": 300,
+      "small_fruit": 4
+    }
+  ],
+  "grades": {
+    "C": 0,
+    "C+": 5,
+    "B": 10,
+    "B+": 15,
+    "A": 20,
+    "A+": 25
+  },
+  "xp_card": {
+    "extra_xp": 50,
+    "stackable": false
+  },
+  "food_xp": {
+    "small": 50,
+    "medium": 200,
+    "rare": 1000,
+    "legend": 3000
+  },
+  "source_of_truth": "reward-engine.js"
+}

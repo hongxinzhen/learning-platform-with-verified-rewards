@@ -1,0 +1,14 @@
+{
+  "id": "N-I3",
+  "key": "potion-rudolfs",
+  "uid": "5079014d2c8e4f879790e4b88142c9a0",
+  "title": "手绘发光药瓶 · Potion",
+  "source": "https://sketchfab.com/3d-models/potion-5079014d2c8e4f879790e4b88142c9a0",
+  "license": "CC-BY-4.0",
+  "author": "rudolfs",
+  "download": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/glbs/000-000/5079014d2c8e4f879790e4b88142c9a0.glb",
+  "bytes": 1513676,
+  "sha256": "9b87d0bf180ef02d6ecd059dfb37b710bc5746db04b5bee467b14d8828810f31",
+  "local": "assets/selected-items/potion-rudolfs/model.glb",
+  "status": "downloaded"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "panther",
+  "uid": "925413cc7af946d58f62ad81671795be",
+  "url": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/glbs/000-082/925413cc7af946d58f62ad81671795be.glb",
+  "file": "assets\\selected-pets\\panther\\model.glb",
+  "bytes": 2539752,
+  "sha256": "3aac59d06dda6afcdf5152f6eb5c12ff9e40e387355ea66dcfff898e6fba8b24",
+  "asset": {
+    "extras": {
+      "author": "Organization (https://sketchfab.com/organizationx)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/black-panther-mount-925413cc7af946d58f62ad81671795be",
+      "title": "Black Panther Mount"
+    },
+    "generator": "Sketchfab-12.67.0",
+    "version": "2.0"
+  },
+  "animations": [
+    {
+      "name": "idle_pose",
+      "channels": 43
+    }
+  ],
+  "status": "downloaded_public_cc_mirror"
+}

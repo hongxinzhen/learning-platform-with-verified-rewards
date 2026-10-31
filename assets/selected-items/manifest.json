@@ -1,0 +1,541 @@
+{
+  "version": 1,
+  "updated": "2026-10-30",
+  "items": {
+    "small": {
+      "name": "芝士汉堡",
+      "model": "food-burger",
+      "accent": "#efbe6a",
+      "sourceId": "F-small",
+      "author": "Grab3D",
+      "license": "CC0-1.0",
+      "source": "https://grab3d.com/models/food/burger/",
+      "local": true,
+      "animations": [],
+      "viewer": "/item-viewer/index.html?item=small",
+      "thumbnail": "/item-viewer/index.html?item=small&thumbnail=1"
+    },
+    "medium": {
+      "name": "缤纷披萨",
+      "model": "food-pizza",
+      "accent": "#efaa73",
+      "sourceId": "F-medium",
+      "author": "Grab3D",
+      "license": "CC0-1.0",
+      "source": "https://grab3d.com/models/food/pizza/",
+      "local": true,
+      "animations": [],
+      "viewer": "/item-viewer/index.html?item=medium",
+      "thumbnail": "/item-viewer/index.html?item=medium&thumbnail=1"
+    },
+    "rare": {
+      "name": "黄金牛角包",
+      "model": "food-croissant",
+      "accent": "#eac775",
+      "sourceId": "F-rare",
+      "author": "Grab3D",
+      "license": "CC0-1.0",
+      "source": "https://grab3d.com/models/food/croissant/",
+      "local": true,
+      "animations": [],
+      "viewer": "/item-viewer/index.html?item=rare",
+      "thumbnail": "/item-viewer/index.html?item=rare&thumbnail=1"
+    },
+    "legend": {
+      "name": "庆祝蛋糕",
+      "model": "food-cake",
+      "accent": "#e3a3c8",
+      "sourceId": "F-legend",
+      "author": "Grab3D",
+      "license": "CC0-1.0",
+      "source": "https://grab3d.com/models/food/birthday-cake/",
+      "local": true,
+      "animations": [],
+      "viewer": "/item-viewer/index.html?item=legend",
+      "thumbnail": "/item-viewer/index.html?item=legend&thumbnail=1"
+    },
+    "xpCard": {
+      "name": "奥术手册",
+      "model": "spellbook",
+      "accent": "#8e9ce4",
+      "sourceId": "I3",
+      "author": "Kayla Hill",
+      "license": "CC-BY-4.0",
+      "source": "https://sketchfab.com/3d-models/arcane-spellbook-d3be15f30054493ab2bf5490426467b2",
+      "local": true,
+      "animations": [],
+      "viewer": "/item-viewer/index.html?item=xpCard",
+      "thumbnail": "/item-viewer/index.html?item=xpCard&thumbnail=1"
+    },
+    "makeup": {
+      "name": "流沙沙漏",
+      "model": "sands-of-time",
+      "accent": "#e1be79",
+      "sourceId": "N-I1",
+      "author": "Antonio Gloria",
+      "license": "CC-BY-4.0",
+      "source": "https://sketchfab.com/3d-models/sands-of-time-0a227353cd804df2b5414107d9e36d18",
+      "local": true,
+      "animations": [
+        {
+          "name": "Sand Animation",
+          "duration": 10,
+          "channels": [
+            "scale",
+            "rotation",
+            "translation",
+            "weights"
+          ]
+        }
+      ],
+      "viewer": "/item-viewer/index.html?item=makeup",
+      "thumbnail": "/item-viewer/index.html?item=makeup&thumbnail=1"
+    },
+    "chest": {
+      "name": "成长宝箱",
+      "model": "chest",
+      "accent": "#ddba65",
+      "sourceId": "I4",
+      "author": "marcosgon",
+      "license": "CC-BY-4.0",
+      "source": "https://sketchfab.com/3d-models/stylized-treasure-chest-1c992fcba0a54ff49d817ad27a2b4bd4",
+      "local": true,
+      "animations": [],
+      "viewer": "/item-viewer/index.html?item=chest",
+      "thumbnail": "/item-viewer/index.html?item=chest&thumbnail=1"
+    },
+    "trophy": {
+      "name": "成长金杯",
+      "model": "trophy",
+      "accent": "#ecc85e",
+      "sourceId": "B1",
+      "author": "Grab3D",
+      "license": "CC0-1.0",
+      "source": "https://grab3d.com/models/props/trophy/",
+      "local": true,
+      "animations": [],
+      "viewer": "/item-viewer/index.html?item=trophy",
+      "thumbnail": "/item-viewer/index.html?item=trophy&thumbnail=1"
+    },
+    "badge": {
+      "name": "成就徽章",
+      "model": "game-badge",
+      "accent": "#c5b16f",
+      "sourceId": "N-B1",
+      "author": "blacksheeptal",
+      "license": "CC-BY-4.0",
+      "source": "https://sketchfab.com/3d-models/game-badge-217e60cf60254f24bb04f9962ae33922",
+      "local": true,
+      "animations": [],
+      "viewer": "/item-viewer/index.html?item=badge",
+      "thumbnail": "/item-viewer/index.html?item=badge&thumbnail=1",
+      "mobileDerivative": true
+    },
+    "starBadge": {
+      "name": "星形徽章",
+      "model": "star-badge",
+      "accent": "#b9c1ca",
+      "sourceId": "N-B2",
+      "author": "Microsoft",
+      "license": "CC-BY-4.0",
+      "source": "https://sketchfab.com/3d-models/badge-4e75bf25e07446e7952d8db10e29f22c",
+      "local": true,
+      "animations": [],
+      "viewer": "/item-viewer/index.html?item=starBadge",
+      "thumbnail": "/item-viewer/index.html?item=starBadge&thumbnail=1"
+    },
+    "potion": {
+      "name": "手绘能量瓶",
+      "model": "potion-moon",
+      "accent": "#79c99e",
+      "sourceId": "N-I2",
+      "author": "Moon Cube Studios",
+      "license": "CC-BY-4.0",
+      "source": "https://sketchfab.com/3d-models/stylized-potion-78d411a585144c4f91ca51d876982ed7",
+      "local": true,
+      "animations": [],
+      "viewer": "/item-viewer/index.html?item=potion",
+      "thumbnail": "/item-viewer/index.html?item=potion&thumbnail=1"
+    },
+    "potion2": {
+      "name": "发光能量瓶",
+      "model": "potion-rudolfs",
+      "accent": "#cf7bc5",
+      "sourceId": "N-I3",
+      "author": "rudolfs",
+      "license": "CC-BY-4.0",
+      "source": "https://sketchfab.com/3d-models/potion-5079014d2c8e4f879790e4b88142c9a0",
+      "local": true,
+      "animations": [],
+      "viewer": "/item-viewer/index.html?item=potion2",
+      "thumbnail": "/item-viewer/index.html?item=potion2&thumbnail=1"
+    },
+    "amulet": {
+      "name": "能量护符",
+      "model": "amulet",
+      "accent": "#c18de8",
+      "sourceId": "N-I4",
+      "author": "Benz",
+      "license": "CC-BY-4.0",
+      "source": "https://sketchfab.com/3d-models/power-amulet-f29a9e44293d42f7b499b6e1fda111e8",
+      "local": true,
+      "animations": [
+        {
+          "name": "Glow",
+          "duration": 8.533333778381348,
+          "channels": [
+            "translation",
+            "rotation",
+            "scale"
+          ]
+        }
+      ],
+      "viewer": "/item-viewer/index.html?item=amulet",
+      "thumbnail": "/item-viewer/index.html?item=amulet&thumbnail=1"
+    },
+    "hourglass": {
+      "name": "玻璃沙漏",
+      "model": "hourglass",
+      "accent": "#dbbd7b",
+      "sourceId": "I7",
+      "author": "Grab3D",
+      "license": "CC0-1.0",
+      "source": "https://grab3d.com/models/props/hourglass/",
+      "local": true,
+      "animations": [],
+      "viewer": "/item-viewer/index.html?item=hourglass",
+      "thumbnail": "/item-viewer/index.html?item=hourglass&thumbnail=1"
+    },
+    "renameCard": {
+      "name": "伙伴改名卡",
+      "model": "rename-letter",
+      "accent": "#daaa79",
+      "sourceId": "F-renameCard",
+      "author": "Grab3D",
+      "license": "CC0-1.0",
+      "source": "https://grab3d.com/models/props/letter/",
+      "local": true,
+      "animations": [],
+      "viewer": "/item-viewer/index.html?item=renameCard",
+      "thumbnail": "/item-viewer/index.html?item=renameCard&thumbnail=1"
+    }
+  },
+  "models": {
+    "crystal": {
+      "key": "crystal",
+      "sourceId": "I1",
+      "title": "手绘魔晶 · 替代平面经验图标",
+      "author": "LowlyPoly",
+      "license": "CC-BY-4.0",
+      "source": "https://sketchfab.com/3d-models/stylized-crystal-0a0c75dab0844e7fa5b299d4af858bec",
+      "distribution": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/glbs/000-050/0a0c75dab0844e7fa5b299d4af858bec.glb",
+      "sha256": "5f04565644954082f3f8dcd1cdc186703448f0cfa967dfb7c2d6151db49a865a",
+      "bytes": 618932,
+      "meshCount": 1,
+      "materialCount": 1,
+      "morphTargetCount": 0,
+      "extensionsUsed": [],
+      "animations": []
+    },
+    "spellbook": {
+      "key": "spellbook",
+      "sourceId": "I3",
+      "title": "奥术书册 · 把任务做成收藏物",
+      "author": "Kayla Hill",
+      "license": "CC-BY-4.0",
+      "source": "https://sketchfab.com/3d-models/arcane-spellbook-d3be15f30054493ab2bf5490426467b2",
+      "distribution": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/glbs/000-033/d3be15f30054493ab2bf5490426467b2.glb",
+      "sha256": "94b523c6552d220828c09430d8d3d22d9c45118735314933acf0222a056637a5",
+      "bytes": 2988368,
+      "meshCount": 1,
+      "materialCount": 1,
+      "morphTargetCount": 0,
+      "extensionsUsed": [],
+      "animations": []
+    },
+    "chest": {
+      "key": "chest",
+      "sourceId": "I4",
+      "title": "手绘宝箱 · 升级礼包的实体",
+      "author": "marcosgon",
+      "license": "CC-BY-4.0",
+      "source": "https://sketchfab.com/3d-models/stylized-treasure-chest-1c992fcba0a54ff49d817ad27a2b4bd4",
+      "distribution": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/glbs/000-085/1c992fcba0a54ff49d817ad27a2b4bd4.glb",
+      "sha256": "825af8a28ef09c8dea5fa56286b84f7553dfb0dbaf2b1ffc8fafbf79cbca5936",
+      "bytes": 2657864,
+      "meshCount": 18,
+      "materialCount": 1,
+      "morphTargetCount": 0,
+      "extensionsUsed": [],
+      "animations": []
+    },
+    "potion-rudolfs": {
+      "key": "potion-rudolfs",
+      "sourceId": "N-I3",
+      "title": "手绘发光药瓶 · Potion",
+      "author": "rudolfs",
+      "license": "CC-BY-4.0",
+      "source": "https://sketchfab.com/3d-models/potion-5079014d2c8e4f879790e4b88142c9a0",
+      "distribution": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/glbs/000-000/5079014d2c8e4f879790e4b88142c9a0.glb",
+      "sha256": "9b87d0bf180ef02d6ecd059dfb37b710bc5746db04b5bee467b14d8828810f31",
+      "bytes": 1513676,
+      "meshCount": 1,
+      "materialCount": 1,
+      "morphTargetCount": 0,
+      "extensionsUsed": [
+        "KHR_materials_pbrSpecularGlossiness"
+      ],
+      "animations": []
+    },
+    "potion-moon": {
+      "key": "potion-moon",
+      "sourceId": "N-I2",
+      "title": "手绘单瓶 · Stylized Potion",
+      "author": "Moon Cube Studios",
+      "license": "CC-BY-4.0",
+      "source": "https://sketchfab.com/3d-models/stylized-potion-78d411a585144c4f91ca51d876982ed7",
+      "distribution": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/glbs/000-101/78d411a585144c4f91ca51d876982ed7.glb",
+      "sha256": "ad4395a002e2b9e73f4d1531025ef50dccfda20e4ca5ca99ef98027c6a1e1bc8",
+      "bytes": 2623948,
+      "meshCount": 1,
+      "materialCount": 1,
+      "morphTargetCount": 0,
+      "extensionsUsed": [],
+      "animations": []
+    },
+    "sands-of-time": {
+      "key": "sands-of-time",
+      "sourceId": "N-I1",
+      "title": "流沙沙漏 · Sands of Time",
+      "author": "Antonio Gloria",
+      "license": "CC-BY-4.0",
+      "source": "https://sketchfab.com/3d-models/sands-of-time-0a227353cd804df2b5414107d9e36d18",
+      "distribution": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/glbs/000-139/0a227353cd804df2b5414107d9e36d18.glb",
+      "sha256": "7244b8a1c819e075c7c93cb73b9d393a2284a698bb374ab8c98fe13db9e22aa2",
+      "bytes": 5129764,
+      "meshCount": 8,
+      "materialCount": 3,
+      "morphTargetCount": 40,
+      "extensionsUsed": [
+        "KHR_materials_transmission"
+      ],
+      "animations": [
+        {
+          "name": "Sand Animation",
+          "duration": 10,
+          "channels": [
+            "scale",
+            "rotation",
+            "translation",
+            "weights"
+          ]
+        }
+      ]
+    },
+    "star-badge": {
+      "key": "star-badge",
+      "sourceId": "N-B2",
+      "title": "金属星形徽章 · Badge",
+      "author": "Microsoft",
+      "license": "CC-BY-4.0",
+      "source": "https://sketchfab.com/3d-models/badge-4e75bf25e07446e7952d8db10e29f22c",
+      "distribution": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/glbs/000-138/4e75bf25e07446e7952d8db10e29f22c.glb",
+      "sha256": "59a2f906c09c99315ae1ba38d3cedde798ac490a0064c0dda111bcef8a3d6de5",
+      "bytes": 1026160,
+      "meshCount": 3,
+      "materialCount": 1,
+      "morphTargetCount": 0,
+      "extensionsUsed": [],
+      "animations": []
+    },
+    "hourglass": {
+      "key": "hourglass",
+      "sourceId": "I7",
+      "title": "Hourglass",
+      "author": "Grab3D",
+      "license": "CC0-1.0",
+      "source": "https://grab3d.com/models/props/hourglass/",
+      "distribution": "https://grab3d.com/dl/hourglass/hourglass.glb",
+      "sha256": "9b734f0e5e6790671a6eae0a92513c4c92beb739f5dc5b934ee0b60f361b4e92",
+      "bytes": 583580,
+      "meshCount": 2,
+      "materialCount": 2,
+      "morphTargetCount": 0,
+      "extensionsUsed": [],
+      "animations": []
+    },
+    "amulet": {
+      "key": "amulet",
+      "sourceId": "N-I4",
+      "title": "能量护符 · Power Amulet",
+      "author": "Benz",
+      "license": "CC-BY-4.0",
+      "source": "https://sketchfab.com/3d-models/power-amulet-f29a9e44293d42f7b499b6e1fda111e8",
+      "distribution": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/glbs/000-105/f29a9e44293d42f7b499b6e1fda111e8.glb",
+      "sha256": "7928e7275e30c5bc2bfda8c58c9e96fe2379feff661a2b33692013876f6bf565",
+      "bytes": 7745852,
+      "meshCount": 4,
+      "materialCount": 3,
+      "morphTargetCount": 0,
+      "extensionsUsed": [
+        "KHR_materials_transmission"
+      ],
+      "animations": [
+        {
+          "name": "Glow",
+          "duration": 8.533333778381348,
+          "channels": [
+            "translation",
+            "rotation",
+            "scale"
+          ]
+        }
+      ]
+    },
+    "trophy": {
+      "key": "trophy",
+      "sourceId": "B1",
+      "title": "Trophy Cup",
+      "author": "Grab3D",
+      "license": "CC0-1.0",
+      "source": "https://grab3d.com/models/props/trophy/",
+      "distribution": "https://grab3d.com/dl/trophy/trophy.glb",
+      "sha256": "be5a91364f4734da2cb019164a5837436f77bfc41f679f4caafe04a8085b8efa",
+      "bytes": 586652,
+      "meshCount": 1,
+      "materialCount": 1,
+      "morphTargetCount": 0,
+      "extensionsUsed": [],
+      "animations": []
+    },
+    "game-badge": {
+      "key": "game-badge",
+      "sourceId": "N-B1",
+      "title": "真正的游戏成就徽章 · Game Badge",
+      "author": "blacksheeptal",
+      "license": "CC-BY-4.0",
+      "source": "https://sketchfab.com/3d-models/game-badge-217e60cf60254f24bb04f9962ae33922",
+      "distribution": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/glbs/000-044/217e60cf60254f24bb04f9962ae33922.glb",
+      "sha256": "fd6d4a719e8dcfa413e6955fc670452bfcfb7912ae258c95ed8ff64f05bb6654",
+      "bytes": 32805744,
+      "meshCount": 14,
+      "materialCount": 13,
+      "morphTargetCount": 0,
+      "extensionsUsed": [],
+      "animations": [],
+      "runtimeDerivative": {
+        "source": "model.glb",
+        "derived": "model-mobile.glb",
+        "originalBytes": 32805744,
+        "derivedBytes": 11712756,
+        "originalSha256": "fd6d4a719e8dcfa413e6955fc670452bfcfb7912ae258c95ed8ff64f05bb6654",
+        "derivedSha256": "a5779e73b860e7d619f8c1c694cfb64836cb6b7df365e44761f5d02d13a013b0",
+        "modification": "Embedded textures above 512 pixels resized to max512 and PNG re-encoded. Geometry, UVs, material assignments, node hierarchy and animation unchanged.",
+        "imagesResized": 34,
+        "geometryBufferViewsPreserved": true,
+        "license": "CC-BY-4.0",
+        "author": "blacksheeptal"
+      },
+      "runtimeBytes": 11712756
+    },
+    "food-burger": {
+      "key": "food-burger",
+      "sourceId": "F-small",
+      "title": "芝士汉堡",
+      "author": "Grab3D",
+      "license": "CC0-1.0",
+      "source": "https://grab3d.com/models/food/burger/",
+      "distribution": "https://grab3d.com/dl/burger/burger.glb",
+      "sha256": "fd987a15ade432d05c07dc54c5861cc0b70fdbae14b13415633b491b86a25555",
+      "bytes": 1407960,
+      "file": "assets/selected-items/food-burger/model.glb",
+      "animations": [],
+      "modifiedBinary": false
+    },
+    "food-pizza": {
+      "key": "food-pizza",
+      "sourceId": "F-medium",
+      "title": "缤纷披萨",
+      "author": "Grab3D",
+      "license": "CC0-1.0",
+      "source": "https://grab3d.com/models/food/pizza/",
+      "distribution": "https://grab3d.com/dl/pizza/pizza.glb",
+      "sha256": "99cf98a68f9c49df92dfd3411b4b3d77e5004808883eda6343f4509cb59ca5e0",
+      "bytes": 1247124,
+      "file": "assets/selected-items/food-pizza/model.glb",
+      "animations": [],
+      "modifiedBinary": false
+    },
+    "food-croissant": {
+      "key": "food-croissant",
+      "sourceId": "F-rare",
+      "title": "牛角包",
+      "author": "Grab3D",
+      "license": "CC0-1.0",
+      "source": "https://grab3d.com/models/food/croissant/",
+      "distribution": "https://grab3d.com/dl/croissant/croissant.glb",
+      "sha256": "50cfbc5790e306dee077ec273a05fe8663f881dd211a6e740c03e3877ba25c0b",
+      "bytes": 437832,
+      "file": "assets/selected-items/food-croissant/model.glb",
+      "animations": [],
+      "modifiedBinary": false
+    },
+    "food-cake": {
+      "key": "food-cake",
+      "sourceId": "F-legend",
+      "title": "庆祝蛋糕",
+      "author": "Grab3D",
+      "license": "CC0-1.0",
+      "source": "https://grab3d.com/models/food/birthday-cake/",
+      "distribution": "https://grab3d.com/dl/birthday-cake/birthday-cake.glb",
+      "sha256": "f5d8a28d9ecd47c76796fa24f7662bb05c0f3a272ca2addf86c33b063217c48a",
+      "bytes": 1109620,
+      "file": "assets/selected-items/food-cake/model.glb",
+      "animations": [],
+      "modifiedBinary": false
+    },
+    "rename-letter": {
+      "key": "rename-letter",
+      "sourceId": "F-renameCard",
+      "title": "改名信笺",
+      "author": "Grab3D",
+      "license": "CC0-1.0",
+      "source": "https://grab3d.com/models/props/letter/",
+      "distribution": "https://grab3d.com/dl/letter/letter.glb",
+      "sha256": "eb45d65cd0076f426ff223948e987c1e63f38fdffd8f0479d4585c2d4bc1d59a",
+      "bytes": 435940,
+      "file": "assets/selected-items/rename-letter/model.glb",
+      "animations": [],
+      "modifiedBinary": false
+    }
+  },
+  "chestTiers": {
+    "wood": {
+      "name": "木",
+      "color": "#88694b"
+    },
+    "iron": {
+      "name": "铁",
+      "color": "#7d8992"
+    },
+    "bronze": {
+      "name": "铜",
+      "color": "#bb864e"
+    },
+    "silver": {
+      "name": "银",
+      "color": "#d4dce4"
+    },
+    "gold": {
+      "name": "金",
+      "color": "#efc767"
+    }
+  },
+  "pending": [
+    {
+      "key": "crown",
+      "sourceId": "B2",
+      "reason": "选定原作未在已核验公开分发索引找到文件；不以其他皇冠冒充。"
+    }
+  ]
+}

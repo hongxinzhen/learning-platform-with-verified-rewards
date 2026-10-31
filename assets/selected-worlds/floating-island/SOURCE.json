@@ -1,0 +1,11 @@
+{
+  "uid": "c5ab040730c24832895acfa0000af9cc",
+  "source": "https://sketchfab.com/3d-models/low-poly-floating-island-c5ab040730c24832895acfa0000af9cc",
+  "title": "Low poly floating island",
+  "author": "JavierG",
+  "license": "CC-BY-4.0",
+  "distribution": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/glbs/000-137/c5ab040730c24832895acfa0000af9cc.glb",
+  "sha256": "362045c398ccfb8bf5ed05bb67b6656bde23f9a7f7842053d9f77e49b7fc3f42",
+  "bytes": 1834896,
+  "modifications": "Original GLB unmodified; runtime normalization and scene integration by MoYa."
+}

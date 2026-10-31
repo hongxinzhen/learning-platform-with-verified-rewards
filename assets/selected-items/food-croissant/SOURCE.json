@@ -1,0 +1,12 @@
+{
+  "key": "food-croissant",
+  "title": "牛角包",
+  "source": "https://grab3d.com/models/food/croissant/",
+  "author": "Grab3D",
+  "license": "CC0-1.0",
+  "download": "https://grab3d.com/dl/croissant/croissant.glb",
+  "bytes": 437832,
+  "sha256": "50cfbc5790e306dee077ec273a05fe8663f881dd211a6e740c03e3877ba25c0b",
+  "local": "assets/selected-items/food-croissant/model.glb",
+  "modifications": "Original GLB unmodified. Runtime scale/position only."
+}

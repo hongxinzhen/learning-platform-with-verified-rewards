@@ -1,0 +1,47 @@
+{
+ "slug": "pizza",
+ "triangles": 11536,
+ "texture_px": 2048,
+ "triangles_light": null,
+ "texture_px_light": null,
+ "files": {
+  "glb": {
+   "name": "pizza.glb",
+   "bytes": 1247124
+  },
+  "blend": {
+   "name": "pizza.blend",
+   "bytes": 1073008
+  },
+  "fbx": {
+   "name": "pizza.fbx",
+   "bytes": 2090044
+  },
+  "obj": {
+   "name": "pizza-obj.zip",
+   "bytes": 1144704
+  },
+  "usdz": {
+   "name": "pizza.usdz",
+   "bytes": 1892442
+  }
+ },
+ "extras": {
+  "license": "CC0-1.0",
+  "source": "grab3d.com",
+  "dimensions_m": "0.303 x 0.333 x 0.026",
+  "triangles": 11536,
+  "textures": "PBR 2048px: base color, roughness, metallic, normal (baked)",
+  "generator": "Created by grab3d",
+  "created": "2026-09-26",
+  "real_size": "pepperoni pizza, 30 cm diameter, 2.5 cm high at the crust",
+  "notes": "cut into 8 slices with visible layers at the cuts (dough, tomato sauce, melted cheese); salami slices, black olive rings, basil leaves; the front slice 'pizza_slice' is a separate object pulled out 3 cm towards -Y (translate +Y 3 cm to close the gap, its origin lies on the slice tip); no text",
+  "set": "Cozy Kitchen & Food Kit"
+ },
+ "origin": {
+  "method": "procedural",
+  "detail": "Built procedurally with Blender scripts. The scripts were written with the help of an AI coding assistant. No generative AI model produced the geometry or textures directly.",
+  "ai_content": false,
+  "ai_assisted_code": true
+ }
+}

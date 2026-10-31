@@ -1,0 +1,28 @@
+{
+  "key": "amulet",
+  "sourceId": "N-I4",
+  "title": "能量护符 · Power Amulet",
+  "author": "Benz",
+  "license": "CC-BY-4.0",
+  "source": "https://sketchfab.com/3d-models/power-amulet-f29a9e44293d42f7b499b6e1fda111e8",
+  "distribution": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/glbs/000-105/f29a9e44293d42f7b499b6e1fda111e8.glb",
+  "sha256": "7928e7275e30c5bc2bfda8c58c9e96fe2379feff661a2b33692013876f6bf565",
+  "bytes": 7745852,
+  "meshCount": 4,
+  "materialCount": 3,
+  "morphTargetCount": 0,
+  "extensionsUsed": [
+    "KHR_materials_transmission"
+  ],
+  "animations": [
+    {
+      "name": "Glow",
+      "duration": 8.533333778381348,
+      "channels": [
+        "translation",
+        "rotation",
+        "scale"
+      ]
+    }
+  ]
+}

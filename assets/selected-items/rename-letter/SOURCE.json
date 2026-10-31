@@ -1,0 +1,12 @@
+{
+  "key": "rename-letter",
+  "title": "改名信笺",
+  "source": "https://grab3d.com/models/props/letter/",
+  "author": "Grab3D",
+  "license": "CC0-1.0",
+  "download": "https://grab3d.com/dl/letter/letter.glb",
+  "bytes": 435940,
+  "sha256": "eb45d65cd0076f426ff223948e987c1e63f38fdffd8f0479d4585c2d4bc1d59a",
+  "local": "assets/selected-items/rename-letter/model.glb",
+  "modifications": "Original GLB unmodified. Runtime scale/position only."
+}

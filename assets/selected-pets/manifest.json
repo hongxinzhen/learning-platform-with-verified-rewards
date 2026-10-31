@@ -1,0 +1,217 @@
+{
+  "version": 1,
+  "retrievedDate": "2026-10-30",
+  "models": [
+    {
+      "id": "cuteRobots",
+      "uid": "c9938d49af2d4bf7abe40e366d37a5d0",
+      "url": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/glbs/000-132/c9938d49af2d4bf7abe40e366d37a5d0.glb",
+      "file": "assets\\selected-pets\\cuteRobots\\model.glb",
+      "bytes": 8349544,
+      "sha256": "df07c9b435a8b04cd603bd6353f4b1cfa5d3c1893fb635b2e1027013f4e00926",
+      "asset": {
+        "extras": {
+          "author": "m1ch3lang3lo (https://sketchfab.com/berkankirmitt)",
+          "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+          "source": "https://sketchfab.com/3d-models/cute-robots-low-poly-rigged-animated-c9938d49af2d4bf7abe40e366d37a5d0",
+          "title": "Cute Robots - Low Poly - Rigged - Animated"
+        },
+        "generator": "Sketchfab-12.67.0",
+        "version": "2.0"
+      },
+      "animations": [
+        {
+          "name": "Armature|Idle",
+          "channels": 96
+        },
+        {
+          "name": "Armature|Jump",
+          "channels": 96
+        },
+        {
+          "name": "Armature|Run",
+          "channels": 94
+        },
+        {
+          "name": "Armature.001|Idle",
+          "channels": 96
+        },
+        {
+          "name": "Armature.001|Jump",
+          "channels": 96
+        },
+        {
+          "name": "Armature.001|Run",
+          "channels": 94
+        },
+        {
+          "name": "Armature.002|Idle",
+          "channels": 96
+        },
+        {
+          "name": "Armature.002|Jump",
+          "channels": 96
+        },
+        {
+          "name": "Armature.002|Run",
+          "channels": 94
+        }
+      ],
+      "status": "downloaded_public_cc_mirror",
+      "originalSource": "https://sketchfab.com/3d-models/cute-robots-low-poly-rigged-animated-c9938d49af2d4bf7abe40e366d37a5d0",
+      "authors": "m1ch3lang3lo (https://sketchfab.com/berkankirmitt)",
+      "license": "CC-BY-4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "modifiedBinary": false,
+      "runtimeChanges": [
+        "scale normalization",
+        "independent cloned skeleton and materials",
+        "selected rig isolation"
+      ]
+    },
+    {
+      "id": "sharpei",
+      "uid": "ed151fd59a894b3290d9eee3f716f0bf",
+      "url": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/glbs/000-126/ed151fd59a894b3290d9eee3f716f0bf.glb",
+      "file": "assets\\selected-pets\\sharpei\\model.glb",
+      "bytes": 787012,
+      "sha256": "2181fa66188ab65764f3ea060b9262d3f9975827899dafce72ccde11807e8912",
+      "asset": {
+        "extras": {
+          "author": "Artsiom Savelyeu (https://sketchfab.com/artsiom)",
+          "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+          "source": "https://sketchfab.com/3d-models/free-shar-pei-animated-dog-ed151fd59a894b3290d9eee3f716f0bf",
+          "title": "Free Shar Pei Animated Dog"
+        },
+        "generator": "Sketchfab-12.67.0",
+        "version": "2.0"
+      },
+      "animations": [
+        {
+          "name": "sitting_idle",
+          "channels": 27
+        },
+        {
+          "name": "walking_cycle",
+          "channels": 54
+        },
+        {
+          "name": "standing_idle",
+          "channels": 40
+        }
+      ],
+      "status": "downloaded_public_cc_mirror",
+      "originalSource": "https://sketchfab.com/3d-models/free-shar-pei-animated-dog-ed151fd59a894b3290d9eee3f716f0bf",
+      "authors": "Artsiom Savelyeu (https://sketchfab.com/artsiom)",
+      "license": "CC-BY-4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "modifiedBinary": false,
+      "runtimeChanges": [
+        "scale normalization",
+        "independent cloned skeleton and materials"
+      ]
+    },
+    {
+      "id": "panther",
+      "uid": "925413cc7af946d58f62ad81671795be",
+      "url": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/glbs/000-082/925413cc7af946d58f62ad81671795be.glb",
+      "file": "assets\\selected-pets\\panther\\model.glb",
+      "bytes": 2539752,
+      "sha256": "3aac59d06dda6afcdf5152f6eb5c12ff9e40e387355ea66dcfff898e6fba8b24",
+      "asset": {
+        "extras": {
+          "author": "Organization (https://sketchfab.com/organizationx)",
+          "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+          "source": "https://sketchfab.com/3d-models/black-panther-mount-925413cc7af946d58f62ad81671795be",
+          "title": "Black Panther Mount"
+        },
+        "generator": "Sketchfab-12.67.0",
+        "version": "2.0"
+      },
+      "animations": [
+        {
+          "name": "idle_pose",
+          "channels": 43
+        }
+      ],
+      "status": "downloaded_public_cc_mirror",
+      "originalSource": "https://sketchfab.com/3d-models/black-panther-mount-925413cc7af946d58f62ad81671795be",
+      "authors": "Organization (https://sketchfab.com/organizationx)",
+      "license": "CC-BY-4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "modifiedBinary": false,
+      "runtimeChanges": [
+        "scale normalization",
+        "independent cloned skeleton and materials"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "petId": "bot-one",
+      "modelId": "cuteRobot1",
+      "source": "cuteRobots",
+      "subtree": "Armature",
+      "actions": [
+        "observe",
+        "jump",
+        "run"
+      ]
+    },
+    {
+      "petId": "bot-two",
+      "modelId": "cuteRobot2",
+      "source": "cuteRobots",
+      "subtree": "Armature.001",
+      "actions": [
+        "observe",
+        "jump",
+        "run"
+      ]
+    },
+    {
+      "petId": "bot-three",
+      "modelId": "cuteRobot3",
+      "source": "cuteRobots",
+      "subtree": "Armature.002",
+      "actions": [
+        "observe",
+        "jump",
+        "run"
+      ]
+    },
+    {
+      "petId": "sharpei",
+      "modelId": "sharpei",
+      "source": "sharpei",
+      "actions": [
+        "observe",
+        "walk",
+        "sit",
+        "rest"
+      ]
+    },
+    {
+      "petId": "panther",
+      "modelId": "panther",
+      "source": "panther",
+      "actions": [
+        "observe"
+      ]
+    }
+  ],
+  "notAcquired": [
+    {
+      "pet": "P1 Cute Dragon",
+      "reason": "Not present in verified official Objaverse 1.0 public index; no substitute used."
+    },
+    {
+      "pet": "P2 Baby dragon",
+      "reason": "Not present in verified official index; static, unrigged, no substitute used."
+    },
+    {
+      "pet": "P7 GIGI",
+      "reason": "Not present in verified official index; tested public rigged mirror file also404. Requires legitimate original download or another verified public redistribution."
+    }
+  ]
+}

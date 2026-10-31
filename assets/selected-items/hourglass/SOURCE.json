@@ -1,0 +1,14 @@
+{
+  "id": "I7",
+  "key": "hourglass",
+  "title": "Hourglass",
+  "source": "https://grab3d.com/models/props/hourglass/",
+  "author": "Grab3D",
+  "license": "CC0-1.0",
+  "download": "https://grab3d.com/dl/hourglass/hourglass.glb",
+  "licenseDownload": "https://grab3d.com/dl/hourglass/LICENSE.txt",
+  "bytes": 583580,
+  "sha256": "9b734f0e5e6790671a6eae0a92513c4c92beb739f5dc5b934ee0b60f361b4e92",
+  "local": "assets/selected-items/hourglass/model.glb",
+  "status": "downloaded"
+}
